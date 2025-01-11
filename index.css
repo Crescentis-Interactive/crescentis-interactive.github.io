@@ -1,0 +1,14 @@
+#main
+{
+    height: 100vh;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #333333; /* changed to a darker color */
+}
